@@ -100,14 +100,26 @@ We provide comprehensive health management solutions considering the user's heal
 ### Personalized Health Consultation for Travel
 https://github.com/user-attachments/assets/36fd5ede-0a10-4dfe-a4d4-649a4802d70c
 
+<br>
+<br>
+
 ### Medication Information and Alternative Medicine Search
 https://github.com/user-attachments/assets/a0863064-9fb7-4d05-8744-ba7c11ffcf8d
+
+<br>
+<br>
 
 ### Food Safety Analysis 
 https://github.com/user-attachments/assets/fa51af6d-93bf-4ec8-a3e7-e6b3a30d0888
 
+<br>
+<br>
+
 ### Emergency Response Procedures
 https://github.com/user-attachments/assets/b335567c-8723-42bc-9d54-0124cb59cb37
+
+<br>
+<br>
 
 ### Profile Travel Information and Medical Information Modification
 https://github.com/user-attachments/assets/1fdbd2f0-5f1a-41a2-b240-a025c0f7c5f9
