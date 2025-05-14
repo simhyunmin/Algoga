@@ -1,0 +1,69 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# 환경 변수 및 비밀 정보 파일
+.env
+.env.*
+*.env
+
+# VSCode 등 에디터의 사용자 설정
+.vscode/settings.json
+
+# macOS, Linux, Windows 등 플랫폼별 환경설정
+*.iml
+*.swp
+
+# 기타 민감 정보 가능성 파일
+*.keystore
+*.jks
+key.properties
+local.properties
+
+# 민감 정보가 포함된 파일 및 폴더
+android/local.properties
+.vscode/settings.json
+lib/service/api_service.dart
+lib/providers/auth_provider.dart

@@ -1,0 +1,55 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.4.5'
+	id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'Algoga'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	// Spring Boot Core Dependencies
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'    // JPA for database operations
+	implementation 'org.springframework.boot:spring-boot-starter-web'         // Web framework support
+
+	// Database Support
+	runtimeOnly 'com.mysql:mysql-connector-j'                                // MySQL database connector
+
+	// Development Tools
+	compileOnly 'org.projectlombok:lombok'                                   // Reduces boilerplate code
+	annotationProcessor 'org.projectlombok:lombok'                           // Annotation processor for Lombok
+
+	// Testing Dependencies
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'    // Testing framework
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'             // JUnit platform support
+
+	// Environment Configuration
+	implementation 'me.paulschwarz:spring-dotenv:4.0.0'                      // Loads environment variables from .env file
+
+	// Template Engine
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'   // Thymeleaf template engine
+
+	// JSON Processing
+	implementation 'org.json:json:20240303'                                  // JSON manipulation library
+}
+
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
