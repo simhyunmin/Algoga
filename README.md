@@ -1,4 +1,4 @@
-# 🌍 Digestive Health Travel Aid ✈️
+# 🌍 Chronic Digestive Disorder Patient Health Travel Service ✈️
 
 [![license](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 [![flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
