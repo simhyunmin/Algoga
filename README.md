@@ -1,5 +1,9 @@
 # 🌍 Chronic Digestive Disorder Patient Health Travel Service ✈️
 
+
+![Cover](https://github.com/user-attachments/assets/774d3427-4875-48bc-b73b-eaa6a2eeeb2d)
+
+
 [![license](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 [![flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
 [![spring](https://img.shields.io/badge/Spring_Boot-2.7-6DB33F?logo=springboot)](https://spring.io/projects/spring-boot)
@@ -8,8 +12,6 @@
 [![aws](https://img.shields.io/badge/AWS-ECS-FF9900?logo=amazon-aws)](https://aws.amazon.com/ecs/)
 
 > **Feel safe even while traveling! Smart travel companion for chronic digestive disorder patients**
-
-<img width="130" alt="KakaoTalk_Photo_2025-05-15-01-26-16" src="https://github.com/user-attachments/assets/82110eb0-31ab-4438-bd90-c8d2f74695c9" />
 
 
 ## 📖 Project Introduction
