@@ -1,7 +1,7 @@
 # 🌍 Chronic Digestive Disorder Patient Health Travel Service ✈️
 
 
-![Cover](https://github.com/user-attachments/assets/774d3427-4875-48bc-b73b-eaa6a2eeeb2d)
+![1111](https://github.com/user-attachments/assets/a9b40578-9488-4291-91e6-3f7eb6680ec4)
 
 
 [![license](https://img.shields.io/badge/License-MIT-red)](LICENSE)
