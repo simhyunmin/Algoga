@@ -129,7 +129,7 @@ https://github.com/user-attachments/assets/1fdbd2f0-5f1a-41a2-b240-a025c0f7c5f9
 
 ### Requirements
 - Flutter 3.0 or higher
-- Java 17
+- Java 21
 - MySQL 8.0
 - Gemini API key
 
