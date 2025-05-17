@@ -2,6 +2,7 @@
 
 ![Cover (1)](https://github.com/user-attachments/assets/4ef0da9e-6af3-4504-9108-2a68a9a0489a)
 
+<p>Intro : https://youtu.be/UW4x1ivycvM </p>
 
 [![license](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 [![flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
